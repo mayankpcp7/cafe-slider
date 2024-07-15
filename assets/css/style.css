@@ -3,6 +3,9 @@
   max-width: 88px;
   border-radius: 50%;
 }
+.bg-cream {
+  background-color: #fcfbe3;
+}
 .slide {
   border: 4px solid #09384e;
   border-radius: 13px;
@@ -51,8 +54,8 @@
 .slick-dots li.slick-active button:before {
   color: #f87b54 !important;
 }
-.mw_934{
-    max-width: 934px;
+.mw_934 {
+  max-width: 934px;
 }
 @media (max-width: 768.98px) {
   .slide-img {
