@@ -51,7 +51,9 @@
 .slick-dots li.slick-active button:before {
   color: #f87b54 !important;
 }
-
+.mw_934{
+    max-width: 934px;
+}
 @media (max-width: 768.98px) {
   .slide-img {
     max-width: 70px;
